@@ -1,2 +1,1 @@
-# robopathrl
-Robot Path Optimization Using Reinforcement Learning
+# Robot Path Optimization Using Reinforcement Learning
